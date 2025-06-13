@@ -1,4 +1,10 @@
 together
-streamlit 
+streamlit
 pandasql
-PIL
+pytesseract
+pdfplumber
+python-docx
+Pillow
+pandas
+matplotlib
+seaborn
