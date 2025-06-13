@@ -1,0 +1,4 @@
+together
+streamlit 
+pandasql
+PIL
