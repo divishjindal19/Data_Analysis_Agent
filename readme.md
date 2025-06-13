@@ -37,6 +37,10 @@ This agent leverages the **Together AI API** with advanced open-source LLMs like
 
 ---
 
+## DEMO
+![Demo](https://github.com/user-attachments/assets/0706fae9-62f0-44d4-b346-8d906308c1f2)
+
+
 ## 📦 Installation
 
 ```bash
