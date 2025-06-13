@@ -7,7 +7,6 @@ import pandas as pd
 import pytesseract
 import docx
 import pandasql as ps
-from PIL import Image
 from pdfplumber import open as pdf_open
 from together import Together
 
